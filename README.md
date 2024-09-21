@@ -6,5 +6,5 @@
 *курсив*
 **жирный текст**
 ***курсив и жирный текст***
-![лого](~/Dowalds/help.png)
+![лого](Dowalds/help.png)
 [не скам](https://schedule.npi-tu.ru)
